@@ -8,7 +8,6 @@ Landing page untuk LinguaPath, aplikasi belajar bahasa yang dimulai dari level p
 - Bagian cara kerja, fitur, pilihan bahasa (Jepang, Inggris, Korea), dan FAQ
 - Dua bahasa antarmuka: Indonesia dan Inggris
 - Mode terang dan gelap, mengikuti pengaturan sistem atau pilihan pengguna
-- Animasi dengan GSAP dan maskot SVG, dimatikan otomatis jika pengguna memilih `prefers-reduced-motion`
 - Responsif dari ponsel sampai desktop
 
 ## Struktur
@@ -39,5 +38,4 @@ Koneksi internet diperlukan untuk memuat font Plus Jakarta Sans (Google Fonts) d
 ## Teknologi
 
 - HTML, CSS, dan JavaScript tanpa framework
-- [GSAP 3](https://gsap.com/) dengan ScrollTrigger dan MotionPathPlugin
 - Font [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
